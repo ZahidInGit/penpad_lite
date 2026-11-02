@@ -69,5 +69,5 @@ Built with Flutter, using Riverpod for state, Drift (SQLite) for storage and Flu
 ---
 
 <div align="center">
-Made by <a href="https://github.com/YOUR_USERNAME">YOUR_NAME</a>
+Made by <a href="https://github.com/YOUR_USERNAME">Md Zahid Fahamid</a>
 </div>
