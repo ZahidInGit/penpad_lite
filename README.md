@@ -39,11 +39,11 @@ Pick the file that matches your phone. **If you're not sure, download the first 
 
 | Download | Works on | Notes |
 | --- | --- | --- |
-| [**PenPad-Lite-v1.0.0-arm64-v8a-release.apk**](https://github.com/YOUR_USERNAME/penpad-lite/releases/download/v1.0.0/PenPad-Lite-v1.0.0-arm64-v8a-release.apk) | Most modern Android phones and tablets (64-bit ARM) | **Recommended** |
-| [**PenPad-Lite-v1.0.0-armeabi-v7a-release.apk**](https://github.com/YOUR_USERNAME/penpad-lite/releases/download/v1.0.0/PenPad-Lite-v1.0.0-armeabi-v7a-release.apk) | Older and some budget phones (32-bit ARM) | Use only if the first one won't install |
-| [**PenPad-Lite-v1.0.0-x86_64-release.apk**](https://github.com/YOUR_USERNAME/penpad-lite/releases/download/v1.0.0/PenPad-Lite-v1.0.0-x86_64-release.apk) | Android emulators, Chromebooks and rare Intel-based devices | Not for regular phones |
+| [**PenPad-Lite-v1.0.0-arm64-v8a-release.apk**](https://github.com/ZahidInGit/penpad_lite/releases/download/v1.0.0/PenPad-Lite-v1.0.0-arm64-v8a-release.apk) | Most modern Android phones and tablets (64-bit ARM) | **Recommended** |
+| [**PenPad-Lite-v1.0.0-armeabi-v7a-release.apk**](https://github.com/ZahidInGit/penpad_lite/releases/download/v1.0.0/PenPad-Lite-v1.0.0-armeabi-v7a-release.apk) | Older and some budget phones (32-bit ARM) | Use only if the first one won't install |
+| [**PenPad-Lite-v1.0.0-x86_64-release.apk**](https://github.com/ZahidInGit/penpad_lite/releases/download/v1.0.0/PenPad-Lite-v1.0.0-x86_64-release.apk) | Android emulators, Chromebooks and rare Intel-based devices | Not for regular phones |
 
-All versions are also listed on the [Releases page](https://github.com/YOUR_USERNAME/penpad-lite/releases).
+All versions are also listed on the [Releases page](https://github.com/ZahidInGit/penpad_lite/releases).
 
 > **Requires Android 6.0 (Marshmallow) or newer.**
 
@@ -69,5 +69,5 @@ Built with Flutter, using Riverpod for state, Drift (SQLite) for storage and Flu
 ---
 
 <div align="center">
-Made by <a href="https://github.com/YOUR_USERNAME">Md Zahid Fahamid</a>
+Made by <a href="https://github.com/ZahidInGit">ZahidInGit</a>
 </div>
